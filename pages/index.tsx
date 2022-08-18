@@ -2,7 +2,6 @@ import type { NextPage } from "next";
 import { Nav } from "../components/nav";
 import { Card } from "../components/cardWager";
 import { CardPreMarket } from "../components/cardPreMarket";
-import { Dashboard } from "../components/dashboard";
 import Head from "next/head";
 import { useState, useEffect } from "react";
 import axios from "axios";
